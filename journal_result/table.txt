@@ -1,0 +1,108 @@
+
+confidential interval:
+
+|        |       1 |       2 |
+|:-------|--------:|--------:|
+| CMBO   | 7.05627 | 4.44962 |
+| SSO    | 7.0661  | 4.4552  |
+| SSA    | 7.06737 | 4.45594 |
+| WHO    | 7.05932 | 4.45131 |
+| SMO    | 7.05909 | 4.45121 |
+| HYBRID | 7.05502 | 4.44887 |
+
+CMBO:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+
+SMO:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+GlobalLimitCount
+MG
+pr
+member
+LocalLimit
+globallimit
+
+
+SSA:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+ID_POS
+ID_FIT 
+ID_INT
+ID_TARGET_POS
+ID_PREV_MOVE_VEC 
+ID_MASK
+r_a         
+p_c          
+p_m
+
+
+SSO:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+ID_POS
+ID_FIT 
+ID_INT
+ID_TARGET_POS
+ID_PREV_MOVE_VEC 
+ID_MASK
+fp
+
+
+WHO:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+n_s                  
+n_e                  
+eta                  
+local_move    
+global_move  
+p_hi               
+delta     
+
+
+HYBRID:
+
+PROBLEM SIZE
+POP SIZE
+EPOCH
+VERBOSE
+BATCH SIZE
+GlobalLimitCount
+MG
+pr
+member
+LocalLimit
+globallimit
+
+dataset descriptions:
+
+Total images:8091
+
+training images:5663
+
+testing:2427
+
+   

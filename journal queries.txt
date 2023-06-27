@@ -1,0 +1,5 @@
+1.Confidence interval
+2.Time complexity
+3.Statistical Analysis
+4.Hyperparameters
+5.comparison with state of art model
